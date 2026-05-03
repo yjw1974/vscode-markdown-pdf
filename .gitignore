@@ -3,7 +3,7 @@ node_modules
 
 # Build output
 dist/
-*.vsix
+#*.vsix
 
 # VS Code test runner
 .vscode-test
