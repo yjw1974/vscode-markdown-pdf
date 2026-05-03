@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"markdown-pdf.outputDirectory": "sample",
+		"markdown-pdf.markdown-it-include.enable": false
+	}
+}
